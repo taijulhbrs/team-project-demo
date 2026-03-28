@@ -7,7 +7,7 @@ print("Hello, " + robot_name + "! Welcome to the world of robotics!")
 def calculator():
     print("Welcome to the Calculator!")
     print("Available operations:")
-    print("1. Add(addition) (+)")
+    print("1. Addition (+)")
     print("2. Subtract (-)")
     print("3. Multiply (*)")
     print("4. Divide (/)")
